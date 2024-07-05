@@ -45,39 +45,38 @@
 // 50-59 (D)
 // 0-49 (F)
 
-let mark=86;
+// let mark=86;
 
-if(mark >= 80 ){
-    console.log("Grade A")
+// if(mark >= 80 ){
+//     console.log("Grade A")
     
-}else if(mark >=79 ){
-    console.log("Grade B")
-}else if(mark >=69){
-    console.log("Grade c")
-}else if(mark>=59){
-    console.log("Grade D")
+// }else if(mark >=79 ){
+//     console.log("Grade B")
+// }else if(mark >=69){
+//     console.log("Grade c")
+// }else if(mark>=59){
+//     console.log("Grade D")
 
-}else{
-    console.log("Grade F")
-}
+// }else{
+//     console.log("Grade F")
+// }
 
-// switch case
+// // switch case
 
-var fruits = "apple";
+// var fruits = "apple";
 
-switch(fruits){
-    case "banana":
-        console.log("banana is good");
-        break;
-        case "orange":
-            console.log("orange is good");
-            break;  
-            case "apple":
-        console.log("apple is good");
-        break;  
-        default:
-            console.log("all are bad")
-}
-
+// switch(fruits){
+//     case "banana":
+//         console.log("banana is good");
+//         break;
+//         case "orange":
+//             console.log("orange is good");
+//             break;  
+//             case "apple":
+//         console.log("apple is good");
+//         break;  
+//         default:
+//             console.log("all are bad")
+// }
 
 

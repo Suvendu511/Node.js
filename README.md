@@ -157,7 +157,6 @@ syntax -
 
 
 
-
 function definition :-
 
  function functionname(parameter){

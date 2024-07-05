@@ -30,10 +30,9 @@
  // }
   //console.log("string size= ",size)
 
-  let students = {
-    name : "suva",
-    age : 20,
-    CGPA :7.5,
-    isPass : true,
-  }
-  
+  // let students = {
+  //   name : "suva",
+  //   age : 20,
+  //   CGPA :7.5,
+  //   isPass : true,
+  // }

@@ -32,14 +32,14 @@
 
 // comparision operator
 // equal to operator
-console.log(5 == 5); // true
-console.log(5 == "5"); // true
-console.log("hello" == "HELLO"); // false
+// console.log(5 == 5); // true
+// console.log(5 == "5"); // true
+// console.log("hello" == "HELLO"); // false
 
 // Not-equal to operator
-console.log(2 != 2); // false
-console.log(2 != "2"); // false
-console.log(2 != 3); // true
+// console.log(2 != 2); // false
+// console.log(2 != "2"); // false
+// console.log(2 != 3); // true
 
 // strict equal to operator
 //console.log(2 == 2); // true
@@ -47,5 +47,5 @@ console.log(2 != 3); // true
 
 // logical AND  operator
 
-let x = 2;
-console,log((x))
+// let x = 2;
+// console,log((x))
