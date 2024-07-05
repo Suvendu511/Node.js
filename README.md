@@ -148,3 +148,20 @@ syntax -
   }else{
     stamenet
   }
+
+
+
+
+
+
+
+
+
+
+function definition :-
+
+ function functionname(parameter){
+    // do some work
+ }
+
+ function calling :- functionname(arguments);
